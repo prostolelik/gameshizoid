@@ -1,0 +1,43 @@
+body {
+	background: url(../images/pexels-photo-301469.jpeg) no-repeat center top/cover; 
+	background-attachment: fixed;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.but-2 {
+	
+	background-color: white;
+    display: inline-block
+}
+
+input {
+	color: #0005BB;
+	background-color: #C1C4C8;
+	border: none;
+	opacity: 0.4;
+	display: ;
+	height: 25px;
+}
+
+.input-22 {
+
+}
+
+button {
+	opacity: 0.7;
+	background-color: #D0E1E1;
+	border: none;
+	
+}
+
+
+.but-1 {
+	background-color: white;
+	
+	}
+
+.up {
+	margin: 0 auto;
+	width: 50%;
+	text-align: center;
+}
